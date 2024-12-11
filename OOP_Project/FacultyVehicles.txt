@@ -1,0 +1,3 @@
+FAC001,Dr. Ali Khan,Computer Science
+FAC002,Dr. Sara Ahmed,Mathematics
+FAC003,Dr. Fahad Anwar,Physics

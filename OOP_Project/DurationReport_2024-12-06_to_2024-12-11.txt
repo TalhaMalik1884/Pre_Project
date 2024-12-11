@@ -1,0 +1,5 @@
+Vehicle Logs from 2024-12-06 to 2024-12-11:
+Entry - Type: University Bus, RegNumber: BUS001, Time: 2024-12-11 14:35:19
+Entry - Type: Faculty Vehicle, RegNumber: ABC-123, Time: 2024-12-11 14:38:23
+Entry - Type: Faculty Vehicle, RegNumber: ABD-246, Time: 2024-12-11 14:41:12
+Exit - Type: N/A, RegNumber: 568472684, Time: 2024-12-11 14:41:41
